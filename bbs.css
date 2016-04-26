@@ -1,0 +1,77 @@
+
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif;  FONT-SIZE: 11px; }
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 9pt; SCROLLBAR-HIGHLIGHT-COLOR: #346699; SCROLLBAR-SHADOW-COLOR: #346699; COLOR: #346699; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #346699; SCROLLBAR-TRACK-COLOR: #ffffff; FONT-FAMILY: Verdana,Geneva,Arial,Helvetica,sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; FONT-FAMILY: verdana, geneva, helvetica, arial, sans-serif;
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px  FONT-SIZE: 8pt;
+}
+TD.red {
+border-top: 1px solid #66;
+border-bottom: 1px solid #666;
+color : #fefefe;
+background-color : red;
+}
+ /*
+A:hover {
+	COLOR: #ff7e00; TEXT-DECORATION: none
+}
+A {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: verdana, geneva, helvetica, arial, sans-serif; TEXT-DECORATION: none
+}
+
+
+
+.even TD {
+border-top: 0px solid #666;
+border-bottom: 1px solid #666
+}
+.even2 TD {
+border-top: 1px solid #666;
+border-bottom: 0px solid #666
+}
+
+.even1 TD {
+border-top: 1px solid #66;
+border-bottom: 1px solid #666;
+color : #5a6eb1;
+background-color : #f3f3f3;
+}
+
+.vpn TD {
+border-top: 1px solid #66;
+border-bottom: 1px solid #666;
+color : #fefefe;
+background-color : #895fff;}
+
+
+.red1 TD {
+color : #f0f30a;
+background-color : #019cb3;
+}
+.redb1 TD {
+color : #f0f30a;
+background-color : #019cb3;
+FONT-WEIGHT: bold;
+}
+
+.summ TD{
+color : #f0f30a;
+font-size: 15px;
+text-align:center;
+background-color : #019cb3;
+FONT-WEIGHT: bold;
+}
+
+.green a{
+color : green;
+//background-color : #019cb3;
+FONT-WEIGHT: bold;
+FONT-SIZE: 15px;
+}
+
+sum {
+color : RED;
+FONT-WEIGHT: bold;
+FONT-SIZE: 15px;
+}
