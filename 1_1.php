@@ -1,4 +1,10 @@
 <META http-equiv="content-type" content="text/html; charset=windows-1251">
+	<head>
+		<style type="text/css">
+			td {
+				color: green;
+			}
+		</style>
 <script type="text/javascript">
   function a() {
     c();
